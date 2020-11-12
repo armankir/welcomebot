@@ -1,0 +1,23 @@
+{
+  "name": "welcomebot",
+  "version": "1.0.0",
+  "description": "WelcomeBot is a opensorce discord bot that welcomes your users!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armankir/welcomebot.git"
+  },
+  "author": "Arman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armankir/welcomebot/issues"
+  },
+  "homepage": "https://github.com/armankir/welcomebot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0"
+  }
+}
