@@ -2,7 +2,7 @@
 
 **Version 1.00**
 
-This bot is made to DM your discord server members a nice embed when they join. It's easy to customise and only requires a little tweaking and copy pasting.
+WelcomeBot is a simple discord bot that DMs users when they join your server with a cool embed. It's fully customizable and free.
 
 # How to use WelcomeBot?
 
