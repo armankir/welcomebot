@@ -4,7 +4,7 @@
 
 WelcomeBot is a simple discord bot that DMs users when they join your server with a cool embed. It's fully customizable and free.
 
-# How to use WelcomeBot?
+# How do you use WelcomeBot?
 
 The usage of this bot is very simple!
 
@@ -20,3 +20,7 @@ The usage of this bot is very simple!
 # Any more questions?
 
 You can DM me on discord, @Arman#8145, or you can just use YouTube, its a good resource.
+
+# Legal
+
+There is none, use it however you want.
