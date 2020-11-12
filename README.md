@@ -17,10 +17,6 @@ The usage of this bot is very simple!
 - Host your bot on a VPS or Heroku.
 - Ta-Da! You have made a working discord bot!
 
-# Legal
-
-There is none, use it however you want.
-
 # Any more questions?
 
 You can DM me on discord, @Arman#8145, or you can just use YouTube, its a good resource.
